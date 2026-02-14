@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Auth App</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_subtitle">Login to continue</string>
+    <string name="btn_login">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="link_register">Register</string>
+    
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to get started</string>
+    <string name="btn_register">Create Account</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="link_login">Login</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_subtitle">Welcome back!</string>
+    <string name="profile_info">Profile Information</string>
+    <string name="btn_logout">Logout</string>
+    
+    <!-- Common -->
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password_req">Password (min 6 characters)</string>
+    <string name="hint_age">Age (Optional)</string>
+    <string name="hint_gender">Gender (Optional)</string>
+    <string name="hint_address">Address (Optional)</string>
+</resources>
